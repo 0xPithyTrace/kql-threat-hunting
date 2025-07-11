@@ -10,11 +10,11 @@ This section contains simple, beginner-friendly KQL queries to help you learn th
 
 | File | Description |
 |------|-------------|
-| [syntax_basics.kql](kql-playground/syntax_basics.kql) | Learn how a KQL query is structured |
-| [where_clause_examples.kql](kql-playground/where_clause_examples.kql) | How to filter data with `where` |
-| [summarize_examples.kql](kql-playground/summarize_examples.kql) | Count and group data |
-| [project_rename.kql](kql-playground/project_rename.kql) | Choose and rename columns |
-| [join_basics.kql](kql-playground/join_basics.kql) | Combine data from multiple tables |
+| [syntax_basics.md](kql-playground/syntax_basics.md) | Learn how a KQL query is structured |
+| [where_clause_examples.md](kql-playground/where_clause_examples.md) | How to filter data with `where` |
+| [summarize_examples.md](kql-playground/summarize_examples.md) | Count and group data |
+| [project_rename.md](kql-playground/project_rename.md) | Choose and rename columns |
+| [join_basics.md](kql-playground/join_basics.md) | Combine data from multiple tables |
 
 ---
 
