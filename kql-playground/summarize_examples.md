@@ -63,7 +63,7 @@ SecurityEvent
 | take 10
 ```
 ---
-##🔧 COMMON AGGREGATES:
+## 🔧 COMMON AGGREGATES:
 | Aggregate | Use |
 |-----------|-----|
 | count()   | number of events |
